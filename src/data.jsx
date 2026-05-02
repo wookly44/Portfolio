@@ -33,10 +33,10 @@ export const projectDatas = [{
     btn1Link: 'https://thesandfox.github.io/bandifesta',
     btn2: 'figma',
     btn2Img: figma,
-    btn2Link: 'https://www.figma.com/design/4hKjaZEbRsl1pGeaUSQKjY/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%B0%A4%EC%82%B0%EC%B1%85?node-id=0-1&t=BFLhwfuNx59RzQpg-1',
+    btn2Link: 'https://www.figma.com/design/4hKjaZEbRsl1pGeaUSQKjY/2024-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0-1&p=f&t=5wnTYUvUogvuMckH-0',
     btn3: 'github',
     btn3Img: git,
-    btn3Link: 'https://github.com/keumju/Bandifesta.git',
+    btn3Link: 'https://github.com/wookly44/Bandi-Festival',
     btn4: 'proposal',
     btn4Img: proposal,
     btn4Link: 'assets/ppt/festival.pdf'
@@ -53,10 +53,10 @@ export const projectDatas = [{
     btn1Link: 'https://keumju.github.io/CatchMath/',
     btn2: 'figma',
     btn2Img: figma,
-    btn2Link: 'https://www.figma.com/design/aJgJdCZVHVoLsfcQaU3ow3/%EC%BA%90%EC%B9%98!-%EC%88%98%ED%95%99-%EB%AA%AC%EC%8A%A4%ED%84%B0?node-id=0-1&t=Y4A3Od2wVNTRqzz1-1',
+    btn2Link: 'https://www.figma.com/design/4hKjaZEbRsl1pGeaUSQKjY/2024-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=38-3920&p=f&t=5wnTYUvUogvuMckH-0',
     btn3: 'github',
     btn3Img: git,
-    btn3Link: 'https://github.com/keumju/CatchMath.git',
+    btn3Link: 'https://github.com/wookly44/Catch-Math-Monsters',
     btn4: 'proposal',
     btn4Img: proposal,
     btn4Link: 'assets/ppt/catch.pdf'
@@ -73,10 +73,10 @@ export const projectDatas = [{
     btn1Link: 'https://keumju.github.io/Gcova_renewal/',
     btn2: 'figma',
     btn2Img: figma,
-    btn2Link: 'https://www.figma.com/design/FvEC1kUoUrefm3llM6to8z/%EC%A7%80%EC%BD%94%EB%B0%94?node-id=0-1&t=QOIkdxtv2ZA5Wn3L-1',
+    btn2Link: 'https://www.figma.com/design/4hKjaZEbRsl1pGeaUSQKjY/2024-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=38-3232&p=f&t=5wnTYUvUogvuMckH-0',
     btn3: 'github',
     btn3Img: git,
-    btn3Link: 'https://github.com/keumju/Gcova_renewal.git',
+    btn3Link: 'https://github.com/wookly44/Gcova_renewal',
     btn4: 'proposal',
     btn4Img: proposal,
     btn4Link: 'assets/ppt/gcova.pdf'
@@ -90,32 +90,32 @@ export const projectDatas = [{
     bgImg: 'assets/frontend.jpg',
     btn1: 'go site',
     btn1Img: site,
-    btn1Link: 'https://keumju.github.io/frontend_dictionary/',
+    btn1Link: 'https://wookly44.github.io/Frontend_Dictionary/',
     // btn2: 'figma',
     // btn2Img: figma,
     // btn2Link: '',
     btn3: 'github',
     btn3Img: git,
-    btn3Link: 'https://github.com/keumju/frontend_dictionary.git'
+    btn3Link: 'https://github.com/wookly44/Frontend_Dictionary'
 
 },
-//  {
-//     class: 'Port',
-//     siteName: 'Portfolio',
-//     teamName: "포트폴리오",
-//     text: '현재 사이트는 제작된 프로젝트가 돋보일 수 있도록 설계된 사이트입니다. GSAP과 Lenis를 활용하여 동적이고 시각적으로 매력적이게 제작하였습니다.',
-//     date: '2024.06.18 ~ 2024.07.04',
-//     bgImg: 'assets/port.jpg',
-//     btn1: 'go site',
-//     btn1Img: site,
-//     btn1Link: '',
-//     btn2: 'figma',
-//     btn2Img: figma,
-//     btn2Link: 'https://www.figma.com/design/aJgJdCZVHVoLsfcQaU3ow3/%EC%BA%90%EC%B9%98!-%EC%88%98%ED%95%99-%EB%AA%AC%EC%8A%A4%ED%84%B0?node-id=0-1&m=dev&t=1sCZ9sbTsP5ATVWV-1',
-//     btn3: 'github',
-//     btn3Img: git,
-//     btn3Link: ''
-// }
+{
+    class: 'Port',
+    siteName: 'Portfolio',
+    teamName: "포트폴리오",
+    text: '현재 사이트는 제작된 프로젝트가 돋보일 수 있도록 설계된 사이트입니다. GSAP과 Lenis를 활용하여 동적이고 시각적으로 매력적이게 제작하였습니다.',
+    date: '2024.06.18 ~ 2024.07.04',
+    bgImg: 'assets/port.jpg',
+    // btn1: 'go site',
+    // btn1Img: site,
+    // btn1Link: '',
+    btn2: 'figma',
+    btn2Img: figma,
+    btn2Link: 'https://www.figma.com/design/F2bJWhkodpT7hGw30UUGpa/web-portfolio?node-id=0-1&p=f&t=5wnTYUvUogvuMckH-0',
+    btn3: 'github',
+    btn3Img: git,
+    btn3Link: 'https://github.com/wookly44/Portfolio'
+}
 ];
 
 export const toyData = [{
@@ -125,10 +125,10 @@ export const toyData = [{
     bgImg : 'assets/toybg.jpg',
     btn1: 'go site',
     btn1Img: site,
-    btn1Link: 'https://keumju.github.io/To-Do-List/',
+    btn1Link: 'https://to-do-list-one-blue-65.vercel.app/',
     btn3: 'github',
     btn3Img: git,
-    btn3Link: 'https://github.com/keumju/To-Do-List.git'
+    btn3Link: 'https://github.com/wookly44/To-Do-List'
 }]
 
 export const cloneDatas = [{
@@ -139,10 +139,10 @@ export const cloneDatas = [{
     txt : 'HTML, CSS, JavaScript를 사용하여 클로닝 사이트를 제작하였습니다.',
     btn1: 'go site',
     btn1Img: site,
-    git : 'https://keumju.github.io/cloning_domino/',
+    git : 'https://clone-domino.vercel.app/',
     btn3: 'github',
     btn3Img: git,
-    link : 'https://github.com/keumju/cloning_domino.git'
+    link : 'https://github.com/wookly44/clone_domino'
 },{
     class : 'socar',
     img : 'assets/socar.png',
@@ -151,10 +151,10 @@ export const cloneDatas = [{
     txt : 'React, CSS를 사용하여 클로닝 사이트를 제작하였습니다.',
     btn1: 'go site',
     btn1Img: site,
-    git : 'https://keumju.github.io/cloning_socar/',
+    git : 'https://clone-socar.vercel.app/',
     btn3: 'github',
     btn3Img: git,
-    link : 'https://github.com/keumju/cloning_socar.git'
+    link : 'https://github.com/wookly44/clone_socar'
 },{
     class : 'gongju',
     img : 'assets/gongju.png',
@@ -163,10 +163,10 @@ export const cloneDatas = [{
     txt : 'HTML, CSS, JavaScript를 사용하여 클로닝 사이트를 제작하였습니다.',
     btn1: 'go site',
     btn1Img: site,
-    git : 'https://keumju.github.io/cloning_gongju/',
+    git : 'https://clone-gongju.vercel.app/',
     btn3: 'github',
     btn3Img: git,
-    link : 'https://github.com/keumju/cloning_gongju.git'
+    link : 'https://github.com/wookly44/clone_gongju'
 },{
     class : 'bizcar',
     img : 'assets/bizcar.png',
@@ -175,10 +175,10 @@ export const cloneDatas = [{
     txt : 'HTML, CSS, JavaScript를 사용하여 클로닝 사이트를 제작하였습니다.',
     btn1: 'go site',
     btn1Img: site,
-    git : 'https://keumju.github.io/cloning_bizcar/',
+    git : 'https://clone-bizcar.vercel.app/',
     btn3: 'github',
     btn3Img: git,
-    link : 'https://github.com/keumju/cloning_bizcar.git'
+    link : 'https://github.com/wookly44/clone_bizcar'
 },
 {
     class : 'ktg',
@@ -188,9 +188,9 @@ export const cloneDatas = [{
     txt : 'HTML, CSS, JavaScript를 사용하여 클로닝 사이트를 제작하였습니다.',
     btn1: 'go site',
     btn1Img: site,
-    git : 'https://keumju.github.io/cloning_kt-g/',
+    git : 'https://clone-kt-g.vercel.app/',
     btn3: 'github',
     btn3Img: git,
-    link : 'https://github.com/keumju/cloning_kt-g.git'
+    link : 'https://github.com/wookly44/clone_kt-g'
 },
 ]
